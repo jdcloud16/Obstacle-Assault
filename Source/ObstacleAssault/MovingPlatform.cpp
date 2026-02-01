@@ -58,3 +58,5 @@ void AMovingPlatform::Tick(float DeltaTime)
 	}
 
 }
+
+// hello
